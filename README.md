@@ -4,6 +4,12 @@
 
 [![Portfolio Case Study](https://img.shields.io/badge/portfolio-case%20study-111827)](#) [![Governance](https://img.shields.io/badge/governance-human--in--the--loop-0f766e)](#) [![Status](https://img.shields.io/badge/status-redacted%20%2F%20portfolio--ready-6b7280)](#)
 
+## Working Prototype
+
+**[Open the working prototype](app/index.html)**
+
+The prototype uses fictional records and focuses on the core workflow rather than visual effects. It is intentionally small enough to inspect and understand.
+
 ## Executive Summary
 
 This case study demonstrates how I approached procurement digitisation as a **product, process and delivery problem** rather than a simple software build.
